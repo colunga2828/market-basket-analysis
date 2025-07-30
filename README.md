@@ -32,6 +32,14 @@ This type of analysis is widely used in retail to drive strategies for cross-sel
 - Suggested cross-promotions based on product pairings
 - Simulated up to **8% increase in monthly sales**
 
+<p align="center">
+  <img src="./images/Association%20rule%20network.png" alt="Association Rule Network" width="600"/>
+</p>
+
+
+
+
+
 ---
 
 ## 📂 Project Structure
