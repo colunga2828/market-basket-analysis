@@ -49,7 +49,7 @@ market-basket-analysis/
 ├── data/
 │   └── transactions.csv
 ├── images/
-│   └── network_graph.png
+│   └── Association rule network.png
 ├── notebooks/
 │   └── analysis.ipynb
 └── README.md
